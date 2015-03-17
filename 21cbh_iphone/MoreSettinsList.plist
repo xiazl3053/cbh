@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>1000</string>
+			<string>分享设置</string>
+			<string>ms_share</string>
+		</array>
+		<array>
+			<string>1001</string>
+			<string>字号大小</string>
+			<string>ms_font</string>
+		</array>
+		<array>
+			<string>1002</string>
+			<string>清除缓存</string>
+			<string>ms_clear</string>
+		</array>
+		<array>
+			<string>1003</string>
+			<string>消息推送</string>
+			<string>ms_push</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>1004</string>
+			<string>版本</string>
+			<string>ms_version</string>
+		</array>
+		<array>
+			<string>1005</string>
+			<string>关于</string>
+			<string>ms_about</string>
+		</array>
+		<array>
+			<string>1006</string>
+			<string>去App Store评分</string>
+			<string>ms_score</string>
+		</array>
+		<array>
+			<string>1007</string>
+			<string>意见反馈</string>
+			<string>ms_ opinion</string>
+		</array>
+		<array>
+			<string>1008</string>
+			<string>更多应用</string>
+			<string>ms_moreapps</string>
+		</array>
+	</array>
+</array>
+</plist>

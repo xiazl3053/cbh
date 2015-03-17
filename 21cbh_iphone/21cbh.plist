@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>programa</key>
+	<array>
+		<string>头条</string>
+		<string>科技</string>
+		<string>政经</string>
+		<string>财经</string>
+		<string>金融</string>
+		<string>机构</string>
+		<string>推荐</string>
+	</array>
+	<key>Type</key>
+	<dict>
+		<key>头条</key>
+		<string>1140</string>
+		<key>科技</key>
+		<string>1148</string>
+		<key>政经</key>
+		<string>1154</string>
+		<key>财经</key>
+		<string>1156</string>
+		<key>金融</key>
+		<string>1158</string>
+		<key>机构</key>
+		<string>1162</string>
+		<key>推荐</key>
+		<string>1208</string>
+	</dict>
+	<key>topType</key>
+	<dict>
+		<key>头条</key>
+		<string>1144</string>
+		<key>科技</key>
+		<string>1174</string>
+		<key>政经</key>
+		<string>1176</string>
+		<key>财经</key>
+		<string>1178</string>
+		<key>金融</key>
+		<string>1180</string>
+		<key>机构</key>
+		<string>1184</string>
+		<key>推荐</key>
+		<string>1218</string>
+	</dict>
+</dict>
+</plist>

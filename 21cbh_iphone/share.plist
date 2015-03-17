@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>share_SinaWeibo</string>
+		<string>新浪微博</string>
+		<string>1</string>
+	</array>
+	<array>
+		<string>share_WeixiSession</string>
+		<string>微信</string>
+		<string>22</string>
+	</array>
+	<array>
+		<string>share_WeixiTimeline</string>
+		<string>微信朋友圈</string>
+		<string>23</string>
+	</array>
+	<array>
+		<string>share_QQ</string>
+		<string>QQ好友</string>
+		<string>24</string>
+	</array>
+	<array>
+		<string>share_SMS</string>
+		<string>短信</string>
+		<string>19</string>
+	</array>
+	<array>
+		<string>share_Mail</string>
+		<string>邮件</string>
+		<string>18</string>
+	</array>
+	<array>
+		<string>share_QQSpace</string>
+		<string>QQ空间</string>
+		<string>6</string>
+	</array>
+	<array>
+		<string>share_Evernote</string>
+		<string>印象笔记</string>
+		<string>12</string>
+	</array>
+</array>
+</plist>

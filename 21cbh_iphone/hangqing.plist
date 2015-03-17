@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ggTitles</key>
+	<array>
+		<string>沪深A股</string>
+		<string>股指期货</string>
+		<string>国债期货</string>
+		<string>上证A股</string>
+		<string>深证A股</string>
+		<string>中小版</string>
+		<string>创业版</string>
+		<string>上证B股</string>
+		<string>深证B股</string>
+		<string>沪市退市整理</string>
+		<string>沪市风险警示</string>
+		<string>深市退市整理</string>
+		<string>上证基金</string>
+		<string>深证基金</string>
+		<string>上证证劵</string>
+		<string>深证证劵</string>
+	</array>
+	<key>bkTitles</key>
+	<array>
+		<string>行业板块行情</string>
+		<string>概念板块行情</string>
+		<string>地区板块行情</string>
+		<string>行业资金流向</string>
+		<string>概念资金流向</string>
+		<string>地区资金流向</string>
+	</array>
+	<key>hqTitles</key>
+	<array>
+		<string>综合</string>
+		<string>大盘</string>
+		<string>板块</string>
+		<string>个股</string>
+		<string>全球</string>
+		<string>港股</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+{
+    "data":{
+    "marketIndexList": [
+                        {
+                        "marketId": "000001",
+                        "marketName": "上证指数",
+                        "totalValue": "2000.29",
+                        "changeValue": "-4.26",
+                        "changeRate": "-0.75%"
+                        },
+                        {
+                        "marketId": "399001",
+                        "marketName": "深证成指",
+                        "totalValue": "700.13",
+                        "changeValue": "55.07",
+                        "changeRate": "0.73%"
+                        },
+                        {
+                        "marketId": "040120",
+                        "marketName": "当月连续",
+                        "totalValue": "2003.4",
+                        "changeValue": "5.8",
+                        "changeRate": "0.2%"
+                        }
+                        ]
+    }
+}

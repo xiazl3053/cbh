@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5053" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="3" customClass="NumberKeyBoard">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="223"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="F0H-Cw-tFv">
+                    <rect key="frame" x="0.0" y="0.0" width="679" height="606"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="OeJ-88-40d">
+                            <rect key="frame" x="7" y="6" width="55" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="600" backgroundImage="D_Keyboard_Left.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="600" backgroundImage="D_Keyboard_LeftHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="cUb-qd-18s"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="EWf-tt-rfY">
+                            <rect key="frame" x="66" y="6" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="1" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="1" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="Q3A-sb-ZDt"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="QrM-YR-FCB">
+                            <rect key="frame" x="130" y="6" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="2" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="2" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="Jbg-15-6wP"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="z3W-2g-p8z">
+                            <rect key="frame" x="194" y="6" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="3" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="3" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="yXc-Y3-JJT"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="HBr-JD-Exu">
+                            <rect key="frame" x="66" y="60" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="4" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="4" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="uJY-Tp-XIK"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="1om-Wb-S9m">
+                            <rect key="frame" x="130" y="60" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="5" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="5" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="0AN-dz-5OK"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="rWf-3P-fZ3">
+                            <rect key="frame" x="194" y="60" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="6" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="6" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="8V3-Pb-Tzs"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="8tA-92-OwJ">
+                            <rect key="frame" x="66" y="114" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="7" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="7" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="bmU-ug-Cce"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Dru-Vq-r88">
+                            <rect key="frame" x="130" y="114" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="8" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="8" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="Qgn-mZ-K1w"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="7a6-zF-SYu">
+                            <rect key="frame" x="194" y="114" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="9" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="9" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="i0r-GB-gj8"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="aY6-h3-RK3">
+                            <rect key="frame" x="194" y="168" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="00" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="00" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="C8Q-sm-Rxm"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tBR-J5-Wr2">
+                            <rect key="frame" x="258" y="6" width="55" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" image="D_Keyborad_back.png" backgroundImage="D_Keyboard_Right.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" image="D_Keyborad_back.png" backgroundImage="D_Keyboard_RightHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="c4T-zR-VPA"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="QgF-kv-2tr">
+                            <rect key="frame" x="258" y="59" width="55" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                            <state key="normal" title="隐藏" backgroundImage="D_Keyboard_Right.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="隐藏" backgroundImage="D_Keyboard_RightHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="r9s-ni-mpt"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="JWr-iu-G9o">
+                            <rect key="frame" x="258" y="113" width="55" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                            <state key="normal" title="清空" backgroundImage="D_Keyboard_Right.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="清空" backgroundImage="D_Keyboard_RightHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="ObT-pk-ui4"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="8J3-fx-Phz">
+                            <rect key="frame" x="258" y="168" width="55" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                            <state key="normal" title="确定" backgroundImage="D_Keyborad_Suer.png">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted" title="确定" backgroundImage="D_Keyboard_RightHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="Qwg-S5-7qL"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ENY-Tn-9se">
+                            <rect key="frame" x="66" y="168" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="ABC" backgroundImage="D_Keyboard_ABC.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="ABC" backgroundImage="D_Keyboard_ABCHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="fCT-WF-T6d"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="TLE-Q6-hJw">
+                            <rect key="frame" x="130" y="168" width="60" height="49"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="27"/>
+                            <state key="normal" title="0" backgroundImage="D_Keyboard_Number.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="0" backgroundImage="D_Keyboard_NumberHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="0Ek-sB-VQV"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="4sv-wL-OiM">
+                            <rect key="frame" x="7" y="49" width="55" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="601" backgroundImage="D_Keyboard_Left.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="601" backgroundImage="D_Keyboard_LeftHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="50s-0b-ts4"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="pZC-Qb-vsu">
+                            <rect key="frame" x="7" y="92" width="55" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="000" backgroundImage="D_Keyboard_Left.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="000" backgroundImage="D_Keyboard_LeftHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="A4A-At-5z5"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zPr-Ke-7IA">
+                            <rect key="frame" x="7" y="135" width="55" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="300" backgroundImage="D_Keyboard_Left.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="300" backgroundImage="D_Keyboard_LeftHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="pwW-QP-9oA"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="a7Y-MN-4Js">
+                            <rect key="frame" x="7" y="178" width="55" height="39"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                            <state key="normal" title="002" backgroundImage="D_Keyboard_Left.png">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="highlighted" title="002" backgroundImage="D_Keyboard_LeftHover.png"/>
+                            <connections>
+                                <action selector="keyClick:" destination="3" eventType="touchUpInside" id="CLp-KC-hO8"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.88482931385869568" green="0.88482931385869568" blue="0.88482931385869568" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="D_Keyboard_ABC.png" width="60" height="49"/>
+        <image name="D_Keyboard_ABCHover.png" width="60" height="49"/>
+        <image name="D_Keyboard_Left.png" width="55" height="39"/>
+        <image name="D_Keyboard_LeftHover.png" width="55" height="39"/>
+        <image name="D_Keyboard_Number.png" width="60" height="49"/>
+        <image name="D_Keyboard_NumberHover.png" width="60" height="49"/>
+        <image name="D_Keyboard_Right.png" width="55" height="49"/>
+        <image name="D_Keyboard_RightHover.png" width="55" height="49"/>
+        <image name="D_Keyborad_Suer.png" width="55" height="49"/>
+        <image name="D_Keyborad_back.png" width="23" height="15"/>
+    </resources>
+</document>

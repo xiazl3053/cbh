@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>3001</string>
+		<string>编辑栏目</string>
+		<string>edit</string>
+		<string>edit_selected</string>
+	</array>
+	<array>
+		<string>3002</string>
+		<string>我的收藏</string>
+		<string>collect</string>
+		<string>collect_selected</string>
+	</array>
+	<array>
+		<string>3003</string>
+		<string>消息中心</string>
+		<string>push</string>
+		<string>push_selected</string>
+	</array>
+	<array>
+		<string>3006</string>
+		<string>更多设置</string>
+		<string>set</string>
+		<string>set_selected</string>
+	</array>
+</array>
+</plist>

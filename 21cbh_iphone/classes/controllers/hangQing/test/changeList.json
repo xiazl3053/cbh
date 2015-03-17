@@ -1,0 +1,148 @@
+{
+    "data":{
+    "goupList": [
+        {
+            "stockId": "600000",
+            "stockName": "基金科技",
+            "newestValue": "3.48",
+            "changeRate": "3.65%",
+            "changeValue": "032"
+        },
+        {
+            "stockId": "600000",
+            "stockName": "中国旅游",
+            "newestValue": "3.48",
+            "changeRate": "3.65%",
+            "changeValue": "032"
+        },
+        {
+            "stockId": "600000",
+            "stockName": "21世纪",
+            "newestValue": "3.48",
+            "changeRate": "-3.65%",
+            "changeValue": "-032"
+        },
+                 {
+                 "stockId": "601476",
+                 "stockName": "基金科技",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "630476",
+                 "stockName": "中国旅游",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "600444",
+                 "stockName": "21世纪",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 },
+                 {
+                 "stockId": "601476",
+                 "stockName": "基金科技",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "630476",
+                 "stockName": "中国旅游",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "600444",
+                 "stockName": "21世纪",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "600444",
+                 "stockName": "21世纪",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 }
+    ],
+    "downList": [
+        {
+            "stockId": "600000",
+            "stockName": "金晶科技",
+            "newestValue": "3.48",
+            "changeRate": "-3.65%",
+            "changeValue": "-032"
+        },
+        {
+            "stockId": "600476",
+            "stockName": "有道科技",
+            "newestValue": "3.48",
+            "changeRate": "-3.65%",
+            "changeValue": "-032"
+        },
+        {
+            "stockId": "600476",
+            "stockName": "南方日报",
+            "newestValue": "3.48",
+            "changeRate": "-3.65%",
+            "changeValue": "-032"
+        },
+                 {
+                 "stockId": "600426",
+                 "stockName": "金晶科技",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 },
+                 {
+                 "stockId": "600476",
+                 "stockName": "有道科技",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "600476",
+                 "stockName": "南方日报",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 },
+                 {
+                 "stockId": "600426",
+                 "stockName": "金晶科技",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 },
+                 {
+                 "stockId": "600476",
+                 "stockName": "有道科技",
+                 "newestValue": "3.48",
+                 "changeRate": "3.65%",
+                 "changeValue": "032"
+                 },
+                 {
+                 "stockId": "600476",
+                 "stockName": "南方日报",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 },
+                 {
+                 "stockId": "600476",
+                 "stockName": "南方日报",
+                 "newestValue": "3.48",
+                 "changeRate": "-3.65%",
+                 "changeValue": "-032"
+                 }
+    ]
+    }
+}

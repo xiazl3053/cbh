@@ -1,0 +1,27 @@
+{
+    "data":{
+    "popularProfessionList": [
+        {
+            "professionId": "0476",
+            "professionName": "木业家具",
+            "professionChangeRate": "3.65%",
+            "stockName": "永安家具",
+            "stockChangeRate": "10.04%"
+        },
+        {
+            "professionId": "0454",
+            "professionName": "塑胶制品",
+            "professionChangeRate": "3.54%",
+            "stockName": "海南橡胶",
+            "stockChangeRate": "10.04%"
+        },
+        {
+            "professionId": "0433",
+            "professionName": "农牧饲渔",
+            "professionChangeRate": "-3.35%",
+            "stockName": "浑隆股分",
+            "stockChangeRate": "-10.02%"
+        }
+    ]
+    }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DownLoadDB1</key>
+	<string>1</string>
+	<key>ERoomsDB</key>
+	<string>1</string>
+	<key>EFriendsDB</key>
+	<string>1</string>
+	<key>ESessionsDB</key>
+	<string>1</string>
+	<key>EMessagesDB</key>
+	<string>2</string>
+	<key>AdBarDB</key>
+	<string>1</string>
+	<key>CommentInfoCollectDB</key>
+	<string>1</string>
+	<key>NewListCollectDB</key>
+	<string>1</string>
+	<key>NewListDB</key>
+	<string>1</string>
+	<key>NewListRecordDB</key>
+	<string>1</string>
+	<key>NewsDetailDB</key>
+	<string>2</string>
+	<key>PicInfoModelDB</key>
+	<string>1</string>
+	<key>PicDetailDB</key>
+	<string>1</string>
+	<key>PicsListCollectDB</key>
+	<string>1</string>
+	<key>PicsListDB</key>
+	<string>1</string>
+	<key>PicsListDB2</key>
+	<string>1</string>
+	<key>selfMarketDB</key>
+	<string>1</string>
+	<key>TopPicDB</key>
+	<string>1</string>
+	<key>searchStocksDB</key>
+	<string>1</string>
+	<key>PushListDB</key>
+	<string>1</string>
+	<key>selfMarketMessageDB</key>
+	<string>1</string>
+</dict>
+</plist>

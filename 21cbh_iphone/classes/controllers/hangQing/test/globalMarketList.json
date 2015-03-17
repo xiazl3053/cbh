@@ -1,0 +1,167 @@
+{
+    "data":{
+    "list": [
+                  {
+                  "marketId": "000001",
+                  "marketName": "台湾加权",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000002",
+                  "marketName": "比利时",
+                  "newestValue": "7107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000300",
+                  "marketName": "瑞士SSMI",
+                  "newestValue": "2107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "马来西亚",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "恒生指数",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "海峡指数",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "道琼工业",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "纳斯达克",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "AH股溢价",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000002",
+                  "marketName": "中电控股",
+                  "newestValue": "7107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000300",
+                  "marketName": "香港中华",
+                  "newestValue": "2107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "九龙仓集",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "汇丰控股",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "电能实业",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "凯富能源",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "电讯盈科",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "长江实业",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000002",
+                  "marketName": "中电控股",
+                  "newestValue": "7107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000300",
+                  "marketName": "香港中华",
+                  "newestValue": "2107.29",
+                  "changeRate": "-0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "九龙仓集",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "汇丰控股",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },
+                  {
+                  "marketId": "000001",
+                  "marketName": "电能实业",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "凯富能源",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  },{
+                  "marketId": "000001",
+                  "marketName": "电讯盈科",
+                  "newestValue": "2107.29",
+                  "changeRate": "0.75",
+                  "isChangeColor":"0"
+                  }
+                  
+                  ],"isRefresh":"0"
+    }
+}
